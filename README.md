@@ -1,3 +1,3 @@
 # A-set-of-Coloured-Markers
 
-freeCodeCamp practice 3
+freeCodeCamp practice 3.
